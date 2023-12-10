@@ -20,7 +20,7 @@ build_chb.py
 experiment.py
 /modules/*.png
 /repositories
-/venv
+/.venv
 /tmp
 /ui-config.json
 /outputs
